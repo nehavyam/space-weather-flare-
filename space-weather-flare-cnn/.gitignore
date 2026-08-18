@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/dataset.npz
+data/metadata.json
+data/_upload.png
+data/preview/
+models/*.pt
+reports/*.png
+reports/*.json
+reports/*.npz
+.DS_Store
